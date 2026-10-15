@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/twisted/epsilon/commit/68b7e4328671d169ba59a7f6571aca4f37062a82",
       "git:hexsha": "68b7e4328671d169ba59a7f6571aca4f37062a82",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-15T14:51:51.277089+00:00"
     },
     {
       "@id": "https://repolex.ai/r/twisted/epsilon/commit/f0abdc96da40124eb40276d47924a0d8e07204c4",
